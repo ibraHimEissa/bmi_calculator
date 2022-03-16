@@ -1,3 +1,3 @@
 #BMI_Calculator
+![BMI Calc](https://user-images.githubusercontent.com/43406126/158682286-ee589d27-a2ee-411e-8497-76cc25516e32.gif)
 
-https://user-images.githubusercontent.com/43406126/158681719-31b8e273-c961-4166-b379-2997f8ef88cb.mp4
